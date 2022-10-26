@@ -1,0 +1,26 @@
+{
+  "name": "ticket-manager-livingfactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/ticket-manager-livingfactory.git"
+  },
+  "keywords": [],
+  "author": "David Yager <g00297771@stu.raritanval.edu> (https://github.com/livingfactory)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/ticket-manager-livingfactory/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-livingfactory#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.0",
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
